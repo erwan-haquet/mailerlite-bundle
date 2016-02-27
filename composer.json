@@ -1,5 +1,5 @@
 {
-  "name": "ErwanHaquet/MailerLiteBundle",
+  "name": "erwan-haquet/mailerlite-bundle",
   "type": "symfony-bundle",
   "description": "Symfony2 bundle for Mailerlite",
   "keywords": ["Mailerlite"],
