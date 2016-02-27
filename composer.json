@@ -1,0 +1,17 @@
+{
+  "name": "ErwanHaquet/MailerLiteBundle",
+  "type": "symfony-bundle",
+  "description": "Symfony2 bundle for Mailerlite",
+  "keywords": ["Mailerlite"],
+  "license": "MIT",
+  "require": {
+    "php": ">=5.3.9",
+    "guzzlehttp/guzzle": "^6.1"
+  },
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-0": {
+      "MailerLiteBundle": "src"
+    }
+  }
+}
