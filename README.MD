@@ -38,6 +38,7 @@ Add MailerLiteBundle to your composer.json
     }
 }
 ```
+
 Then update your composer
 > composer install erwan-haquet/mailerlite-bundle
 
@@ -56,6 +57,7 @@ public function registerBundles()
         new MailerLiteBundle\MailerLiteBundle(),
     );
 }
+```
 
 
 ##### 3) Configure it
